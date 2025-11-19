@@ -1,6 +1,6 @@
 Sentiment analysis using Logistic Regression
-Dataset used: Sentiment140
-Dataset Link: https://www.kaggle.com/datasets/kazanova/sentiment140
+\nDataset used: Sentiment140
+\nDataset Link: https://www.kaggle.com/datasets/kazanova/sentiment140
 
 To run the chatbot:
 - Make sure Python3 is installed
